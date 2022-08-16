@@ -1,0 +1,15 @@
+{
+  "name": "12.08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "to_long_word.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
